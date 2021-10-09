@@ -1,0 +1,63 @@
+.h{
+	
+	background:#ff4d4d;
+	padding:10px;
+	border:2px solid black;
+	color:black;
+	
+}
+#b{
+	
+
+	
+}
+
+#d{
+	height: 700px;
+	width: 500px;
+	background:#dcdde1;
+	border:3px solid black;
+	border-radius:25px;
+	margin: 0 auto;
+
+	
+	
+}
+
+#form{
+	
+	
+	color:black;
+	margin:5px;
+	text-align:center;
+	padding:3px;
+	height:30px;
+	width:380px;
+	
+	
+}
+
+.img{
+	
+	height:140px;
+	width:400px;
+	
+}
+
+
+#button{
+
+	margin:10px;
+	text-align:center;
+	padding:5px;
+	height:30px;
+	width:380px;
+	background:25f5c6;
+	border-radius:25px;
+	
+	
+}
+.img1{
+	height:80px;
+	width:80px;
+}
